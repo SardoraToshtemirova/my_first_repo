@@ -7,4 +7,4 @@ We add new text through website
 
 we will add again text
 
-Розрешаем конфликт
+Розрешаем конфликт text in the website
