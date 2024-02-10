@@ -7,4 +7,7 @@ We add new text through website
 
 we will add again text
 
-Розрешаем конфликт
+
+Dobavili text v noviy vetki newbranch
+
+
